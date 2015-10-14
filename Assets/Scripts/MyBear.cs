@@ -10,7 +10,7 @@ using System.Collections;
 
 //Name of class must be name of file as well
 
-public class Bear : MonoBehaviour {
+public class MyBear : MonoBehaviour {
 	
 	public float AvatarRange = 25;
 
